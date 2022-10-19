@@ -1,11 +1,11 @@
-### Hi there, I'm Kriti <img src="https://github.com/kriti4666/kriti4666/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Kriti <img src="./Assets/Hi.gif" width="22px">
 
 
 ---
 
 <br />
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design -->
@@ -15,20 +15,19 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/react-2.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/redux.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/graphql.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/nodejs-icon.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/mongodb-icon-1.svg" />
+<img align="left" alt="HTML5" width="26px" src="./Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="./Assets/javascript.png" />
+<img align="left" alt="React" width="26px" src="./Assets/react-2.svg" />
+<img align="left" alt="React" width="26px" src="./Assets/redux.svg" />
+<img align="left" alt="React" width="26px" src="./Assets/graphql.svg" />
+<img align="left" alt="Node.js" width="26px" src="./Assets/nodejs-icon.svg" />
+<img align="left" alt="React" width="26px" src="./Assets/mongodb-icon-1.svg" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/git-icon.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="./Assets/git-icon.svg" />
 
-<img align="left" alt="postman" width="26px" border = "1px solid white"  color = "red" src="https://github.com/kriti4666/kriti4666/blob/master/Assets/hello.png" />
-
+<img align="left" alt="postman" width="26px" border = "1px solid white"  color = "red" src="./Assets/hello.png" />
 <br />
 <br />
 
@@ -65,26 +64,25 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<!-- <a href="https://www.leetcode.com/kunal_kumar_au8" target="_blank">
-  <img align="center" alt="Kriti | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
-</a> &nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/kunal-kumar-007/" target="_blank">
-  <img align="center" alt="Kriti | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/kriti-kashyap-b17188224/" target="_blank">
+  <img align="center" alt="kriti | Linkedin" width="24px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />
 </a> &nbsp;&nbsp;
-<a href="" target="_blank">
-  <img align="center" alt="Kriti | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+<a href="https://github.com/kriti4666">
+    <img align="center" alt="kriti | GitHub" width="24px" src="https://img.icons8.com/glyph-neue/344/github.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/kunal_0_07/)" target= "_blank">
-  <img align="center" alt="Kriti | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+<a href="mailto:kritikumari4666@gmail.com" target="_blank">
+  <img align="center" alt="kriti | Gmail" width="26px" src="https://img.icons8.com/color/344/circled-envelope.png" />
 </a> &nbsp;&nbsp;
-<a href="mailto:kunalkseven@gmail.com" target="_blank">
-  <img align="center" alt="Kriti | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="https://drive.google.com/file/d/1dqp6CUokV7kYQ4zqvt0_3TEUik_bz2aM/view?usp=sharing" target= "_blank">
+  <img align="center" alt="kriti | Resume" width="24px" src="https://img.icons8.com/ios/344/resume.png" />
 </a> &nbsp;&nbsp;
-<a href="">
-    <img align="center" alt="Kriti | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+<a href="https://kriti4666.github.io/" target="_blank">
+  <img align="center" alt="kriti | Portfolio" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-portfolio-job-search-flaticons-lineal-color-flat-icons-3.png" />
 </a> &nbsp;&nbsp;
+
 <p>
   
+<br>
 <br>
   
 <div align=center>
