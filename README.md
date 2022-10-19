@@ -68,13 +68,13 @@
   <img align="center" alt="kriti | Linkedin" width="24px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/kriti4666">
-    <img align="center" alt="kriti | GitHub" width="24px" src="https://img.icons8.com/glyph-neue/344/github.png" />
+    <img align="center" alt="kriti | GitHub" width="24px" src="https://img.icons8.com/color/344/github--v1.png" />
 </a> &nbsp;&nbsp;
 <a href="mailto:kritikumari4666@gmail.com" target="_blank">
   <img align="center" alt="kriti | Gmail" width="26px" src="https://img.icons8.com/color/344/circled-envelope.png" />
 </a> &nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1dqp6CUokV7kYQ4zqvt0_3TEUik_bz2aM/view?usp=sharing" target= "_blank">
-  <img align="center" alt="kriti | Resume" width="24px" src="https://img.icons8.com/ios/344/resume.png" />
+  <img align="center" alt="kriti | Resume" width="24px" src="https://img.icons8.com/color/344/resume.png" />
 </a> &nbsp;&nbsp;
 <a href="https://kriti4666.github.io/" target="_blank">
   <img align="center" alt="kriti | Portfolio" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-portfolio-job-search-flaticons-lineal-color-flat-icons-3.png" />
@@ -98,5 +98,5 @@
   *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
   ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+  *If you liked my profile, you can Star ⭐ the repo.*
   
