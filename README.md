@@ -68,10 +68,10 @@ Let's build together something unique.</p>
 
 <!--   Top Languages Using -->
 
-### 👨‍💻 Top Languages Used:
+<!-- ### 👨‍💻 Top Languages Used:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kriti4666&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kriti4666&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kriti4666&theme=nord_dark) -->
 
 <!--   GitHub stats graph -->
 
@@ -109,9 +109,7 @@ Let's build together something unique.</p>
 </a> &nbsp;&nbsp;
 
 <p>
-  
-<br>
-<br>
+<br/>
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
